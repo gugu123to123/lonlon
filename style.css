@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+    background-size: cover;
+    
+}
+canvas{
+    border-color: aqua;
+}
